@@ -1,0 +1,33 @@
+name: timer_gym
+description: "A new Flutter project."
+publish_to: 'none' # Remove esta linha se quiser publicar no pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.14.1
+
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.14.1
+
+flutter:
+  uses-material-design: true
+
+  # Seção de assets para adicionar os arquivos de mídia (como o som do alarme)
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/timer_capa.jpg"
