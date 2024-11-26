@@ -30,9 +30,9 @@ Copiar código
 flutter run
 🖼️ Capturas de Tela
 Tela de Configuração
-<img src="https://via.placeholder.com/400x800" alt="Tela de Configuração" width="300">
+<img src="https://photos.google.com/photo/AF1QipN1TKhlYXHAbiLZO31Q6vYTANIPdG5Qmo6ZHZ8z" alt="Tela de Configuração" width="300">
 Tela do Cronômetro
-<img src="https://via.placeholder.com/400x800" alt="Tela do Cronômetro" width="300">
+<img src="https://photos.google.com/photo/AF1QipPY2voYXBVdyG20nsO4EGgKeLUKbN3h7svq8Mo7" alt="Tela do Cronômetro" width="300">
 📂 Estrutura do Projeto
 main.dart: Ponto de entrada do aplicativo.
 MyApp: Configuração global do tema e tela inicial.
